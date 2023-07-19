@@ -52,14 +52,17 @@ imagenet --model=models/DamageSurvey/resnet18.onnx /
 <details>
 <summary>Downloads</summary>
 
-Data
-[LIST URL HERE]
+### Data
+[Click here to download](https://www.dropbox.com/s/5d03a2n4klgkmfx/DamageSurvey_Data.tar?dl=0)
 
-Model
-[LIST URL HERE]
+### Model
+[Click here to download](https://www.dropbox.com/s/utz4msu0s8e5n5k/DamageSurvey_Model.tar?dl=0)
 
-Getting Started with AI on Jetson Nano Certificate
-[LIST URL HERE]
+### "Getting Started with AI on Jetson Nano" Certificate
+[Click here to download](https://www.dropbox.com/s/q1ldws8e1aznflo/NVIDIA%20Certificate%20%28Getting%20Started%20on%20Jetson%20Nano%29.pdf?dl=0)
+
+### Reflash instructions for a dead NVIDIA Jetson Nano 2GB Developer Kit card
+[Click here to download](https://www.dropbox.com/s/awcbqkyni0gvbbt/Step-by-Step%20Instructions%20to%20Flash%20a%20Dead%20Jetson%20Nano%20Board.txt?dl=0)
 </details>
 
 @NVIDIA/Training  Thanks to the Jetson Nano team, support team and Dusty for putting the material together to jumpstart projects! 
