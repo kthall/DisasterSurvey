@@ -24,7 +24,9 @@ This project is a proof-of-principle demonstration of whether the resnet-18 mode
 
 ### Download and unpack the data
 cd ./jetson-inference/python/training/classification
+
 wget https://www.dropbox.com/s/5d03a2n4klgkmfx/DamageSurvey_Data.tar?dl=0 -O DamageSurvey.tar
+
 tar -xvf DamageSurvey.tar
 
 ### Train the model
