@@ -36,7 +36,7 @@ python3 train.py --model-dir=models/DamageSurvey data/DamageSurvey
 python3 onnx_export.py --model-dir=models/DamageSurvey
 
 ### Create a data directory to capture outputs
-mkdir DamageSurvey/test/output
+mkdir data/DamageSurvey/test/output
 
 ### Process a single test file
 imagenet --model=models/DamageSurvey/resnet18.onnx /
@@ -46,8 +46,6 @@ imagenet --model=models/DamageSurvey/resnet18.onnx /
            data/DamageSurvey/test/output/output_01.jpg
 
 ### Process all test files
-mkdir data/DamageSurvey/test/output
-
 imagenet --model=models/DamageSurvey/resnet18.onnx /
          --input_blob=input_0 --output_blob=output_0 /
          --labels=data/DamageSurvey/labels.txt  /
