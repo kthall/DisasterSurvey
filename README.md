@@ -39,17 +39,17 @@ python3 onnx_export.py --model-dir=models/DamageSurvey
 mkdir data/DamageSurvey/test/output
 
 ### Process a single test file
-imagenet --model=models/DamageSurvey/resnet18.onnx /
-         --input_blob=input_0 --output_blob=output_0 /
-         --labels=data/DamageSurvey/labels.txt  /
-           data/DamageSurvey/test/01.jpg /
-           data/DamageSurvey/test/output/output_01.jpg
+imagenet --model=models/DamageSurvey/resnet18.onnx 
+         --input_blob=input_0 --output_blob=output_0 
+         --labels=data/DamageSurvey/labels.txt 
+           data/DamageSurvey/test/001.jpg 
+           data/DamageSurvey/test/output/output_001.jpg
 
 ### Process all test files
-imagenet --model=models/DamageSurvey/resnet18.onnx /
-         --input_blob=input_0 --output_blob=output_0 /
-         --labels=data/DamageSurvey/labels.txt  /
-           data/DamageSurvey/test /
+imagenet --model=models/DamageSurvey/resnet18.onnx 
+         --input_blob=input_0 --output_blob=output_0 
+         --labels=data/DamageSurvey/labels.txt 
+           data/DamageSurvey/test 
            data/DamageSurvey/test/output
 </details>
 
