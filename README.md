@@ -3,7 +3,7 @@
 <details>
 <summary>Background</summary>
 
-In 2022, the Federal Emergency Management Agency (FEMA) responded to over 100 officially declared disasters within the U.S. and it's territories.  One of the most time-consuming post-disaster activities is the Preliminary Damage Assessment, to determine the level and extent of damage before restoration activities can begin.  In theory, if some or all of this process could be automated, the faster PDA's are performed, the quicker individuals can obtain insurance reimbursement or disaster management officials are able to accurately prioritize restoration activities.
+In 2022, the Federal Emergency Management Agency (FEMA) responded to over 100 officially declared disasters within the U.S. and it's territories.  One of the most time-sensitive post-disaster activities is the Preliminary Damage Assessment, to determine the level and extent of damage before restoration activities can begin.  In theory, if some or all of this process could be automated, the faster PDA's are performed, the quicker individuals can obtain insurance reimbursement or disaster management officials are able to accurately prioritize restoration activities.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.dhs.gov/sites/default/files/images/PLCY/19_0703_plcy_strat-plan_goal-5-1.jpg">
