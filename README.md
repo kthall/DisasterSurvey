@@ -58,6 +58,9 @@ imagenet --model=models/DamageSurvey/resnet18.onnx
 <details>
 <summary>Downloads</summary>
 
+### Video
+[Click here to download](https://www.dropbox.com/s/mdml3lra4qmr39t/DamageSurvey.mov?dl=0)
+
 ### Data
 [Click here to download](https://www.dropbox.com/s/5d03a2n4klgkmfx/DamageSurvey_Data.tar?dl=0)
 
