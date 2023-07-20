@@ -36,6 +36,8 @@ python3 train.py --model-dir=models/DamageSurvey data/DamageSurvey
 python3 onnx_export.py --model-dir=models/DamageSurvey
 
 ### Create a data directory to capture outputs
+rm -r data/DamageSurvey/test/output
+
 mkdir data/DamageSurvey/test/output
 
 ### Process a single test file
