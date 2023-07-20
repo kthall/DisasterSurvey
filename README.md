@@ -22,8 +22,12 @@ This project is a proof-of-principle demonstration of whether the resnet-18 mode
 <details>
 <summary>Instructions</summary>
 
-### Train the model
+### Download and unpack the data
 cd ./jetson-inference/python/training/classification
+wget https://www.dropbox.com/s/5d03a2n4klgkmfx/DamageSurvey_Data.tar?dl=0 -O DamageSurvey.tar
+tar -xvf DamageSurvey.tar
+
+### Train the model
 python3 train.py --model-dir=models/DamageSurvey data/DamageSurvey
 
 ### Generate a model called resnet18.onnx
@@ -65,6 +69,6 @@ imagenet --model=models/DamageSurvey/resnet18.onnx /
 [Click here to download](https://www.dropbox.com/s/awcbqkyni0gvbbt/Step-by-Step%20Instructions%20to%20Flash%20a%20Dead%20Jetson%20Nano%20Board.txt?dl=0)
 </details>
 
-@NVIDIA/Training  Thanks to the Jetson Nano team, support team and Dusty for putting the material together to jumpstart projects! 
+@NVIDIA/Training  Thanks to the Jetson Nano training and support teams for putting the material together to jumpstart projects! 
 
 
