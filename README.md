@@ -10,7 +10,7 @@ In 2022, the Federal Emergency Management Agency (FEMA) responded to over 100 of
   <source media="(prefers-color-scheme: light)" srcset="https://www.dhs.gov/sites/default/files/images/PLCY/19_0703_plcy_strat-plan_goal-5-1.jpg">
   <img alt="Arial view of a coastline with badly damaged houses" src="https://www.dhs.gov/sites/default/files/images/PLCY/19_0703_plcy_strat-plan_goal-5-1.jpg">
 </picture>
-Source: DHS.gov
+Photo Source: DHS.gov
 </details>
 
 <details>
